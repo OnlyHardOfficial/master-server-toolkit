@@ -1,0 +1,11 @@
+{
+    "name": "com.master.server.toolkit",
+    "version": "4.15.0",
+    "displayName": "Master Server Toolkit",
+    "description": "This is an independent, free and at the same time powerful solution to many of the problems you face when developing online multiplayer games and applications.",
+    "unity": "2019.1",
+    "author": {
+      "name": "aevien",
+      "url": "https://github.com/aevien/master-server-toolkit"
+    }
+  }
